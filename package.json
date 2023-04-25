@@ -1,0 +1,30 @@
+{
+  "name": "next.evolvify.labs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.7.12",
+    "@wordpress/base-styles": "^4.22.0",
+    "@wordpress/block-library": "^8.8.0",
+    "autoprefixer": "10.4.14",
+    "dompurify": "^3.0.2",
+    "eslint": "8.38.0",
+    "eslint-config-next": "13.3.0",
+    "graphql": "^16.6.0",
+    "graphql-request": "^6.0.0",
+    "next": "13.3.0",
+    "next-seo": "^6.0.0",
+    "next-share": "^0.20.0",
+    "postcss": "8.4.23",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.8.0",
+    "tailwindcss": "3.3.1"
+  }
+}
